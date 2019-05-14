@@ -1,0 +1,31 @@
+body {
+  background-color: brown;
+}
+
+.dog {
+  float: left;
+  width: 20%;
+  margin: 2%;
+  border: 10px black solid;
+  background-color: darkgreen;
+  padding: 15px;
+}
+
+.dog img {
+  max-width: 100%;
+  height: auto;
+}
+
+.dog p a {
+  color: #FFD700
+}
+
+.dog .jake {
+
+}
+
+.mail {
+  float: left;
+  border: 5px black dotted;
+  font-family: monospace;
+}
