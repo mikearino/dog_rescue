@@ -4,11 +4,17 @@ body {
   font-size: 20px;
 }
 
+h1 {
+  color: darkgrey;
+  text-align: center;
+  font-size: 40px;
+}
+
 .dog {
   float: left;
   width: 20%;
   margin: 2%;
-  border: 10px black solid;
+  border: 10px orange solid;
   background-color: darkgreen;
   padding: 15px;
 }
@@ -22,12 +28,16 @@ body {
   color: #FFD700
 }
 
-.dog .jake {
-
+.dog h2 {
+  text-align: center;
+  color: lightblue;
 }
 
 .mail {
   float: left;
   border: 5px black dotted;
   font-family: monospace;
+  position: fixed;
+  top: 800px;
+  left: 90%;
 }
